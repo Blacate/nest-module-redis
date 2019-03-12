@@ -1,11 +1,13 @@
 {
   "name": "nest-module-redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A nestjs redis dynamic module",
   "main": "index.js",
   "author": "Neail",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/Blacate/nest-module-redis",
+  "keywords": ["nest.js", "redis"],
   "scripts": {
     "clean": "rm -rf dist/*",
     "prebuild": "npm run clean",
