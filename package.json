@@ -7,7 +7,10 @@
   "license": "MIT",
   "private": false,
   "repository": "https://github.com/Blacate/nest-module-redis",
-  "keywords": ["nest.js", "redis"],
+  "keywords": [
+    "nest.js",
+    "redis"
+  ],
   "scripts": {
     "clean": "rm -rf dist/*",
     "prebuild": "npm run clean",
@@ -35,7 +38,7 @@
     "typescript-eslint-parser": "^22.0.0"
   },
   "dependencies": {
-    "@nestjs/common": "^5.7.3",
+    "@nestjs/common": "^6.9.0",
     "@types/ioredis": "^4.0.9",
     "ioredis": "^4.6.2",
     "reflect-metadata": "^0.1.13"
