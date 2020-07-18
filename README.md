@@ -1,3 +1,6 @@
+
+## **!!! Archived you can use [nestjs-redis](https://github.com/skunight/nestjs-redis) instead.**  
+
 ### Redis Dynamic Module for Nest.js
 
 **Note: this is a global module.**
